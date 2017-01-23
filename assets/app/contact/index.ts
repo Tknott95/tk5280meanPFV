@@ -1,0 +1,1 @@
+export { ContactPageComponent } from './contact.component';

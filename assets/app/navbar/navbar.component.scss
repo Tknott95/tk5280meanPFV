@@ -1,0 +1,41 @@
+@import './../app.component';
+
+nav {
+    .navbar-brand {
+        font-family: $tk-primary-font;
+        color: $navbar-color;
+        margin: 5px auto;
+        font-size: 40px;
+    }
+
+    & a:hover {
+         color: $navbar-hover-color;
+     }
+
+    // SETUP FOR LINKS (About, Services, etc...)
+    .navbar-nav {
+        font-family: $tk-primary-font;
+        font-size: $tk-nav-link-font-size;
+        padding-top: 5px;
+    }
+
+}
+
+@media(min-width:767px) {
+    .navbar {
+        padding: 20px 0;
+        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        transition: background .5s ease-in-out,padding .5s ease-in-out;
+    }
+
+    .navbar-brand {
+        margin: 10px auto;
+        font-family: $tk-primary-font;
+        font-size: 40px;
+    }
+
+    .top-nav-collapse {
+        padding: 0;
+    }
+}
