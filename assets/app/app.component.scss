@@ -1,20 +1,24 @@
-// GLOBAL VARIABLES
+/* GLOBAL VARIABLES */
 
-// HEADER
+/* Vars used throughout must be loaded at the top */
+$tk-cream: #fffdd0;
+$tk-primary-font: 'Anton', sans-serif;
 
 // NAVBAR
 
-$navbar-color: white;
+$navbar-color: $tk-cream;
 $navbar-hover-color: yellow;
 
-// Navbar Links
 $tk-nav-link-font-size: 20px;
-
-// BODY
 
 // Color
 $tk-primary-color: $navbar-color;
 $tk-primary-hover-color: $navbar-hover-color;
+$tk-theme-color: $tk-cream;
+
+$tk-alt-1-bg: white;
 
 // Font
-$tk-primary-font: 'Anton', sans-serif;
+$tk-h3-font-size: 30px;
+
+
