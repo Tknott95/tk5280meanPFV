@@ -249,7 +249,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="services" />
+              <option name="myItemId" value="landing-page" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -345,12 +345,12 @@
       <option name="presentableId" value="Default" />
       <updated>1485135711821</updated>
       <workItem from="1485135714800" duration="7070000" />
-      <workItem from="1485145322646" duration="3757000" />
+      <workItem from="1485145322646" duration="3800000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10827000" />
+    <option name="totallyTimeSpent" value="10870000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
