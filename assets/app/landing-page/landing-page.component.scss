@@ -3,7 +3,7 @@
 .intro-section {
     height: 500px;
     padding-top: 150px;
-    background: $tk-alt-1-bg;
+    background-image: url('https://s-media-cache-ak0.pinimg.com/originals/83/c2/15/83c2154fd80431486855bf64b888207f.png');
 
     h1 {
         font-family: $tk-primary-font;
@@ -11,6 +11,7 @@
 
     & .tk-header {
         font-family: $tk-primary-font;
+        text-shadow: 2px 2px white;
         font-size: 100px;
     }
 }
